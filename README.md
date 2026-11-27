@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayush-3054t/DSA_/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-3054t/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayush-3054t/DSA_/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
@@ -54,9 +55,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayush-3054t/DSA_/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-3054t/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-3054t/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush-3054t/DSA_/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush-3054t/DSA_/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush-3054t/DSA_/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
